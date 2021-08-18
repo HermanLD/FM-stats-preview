@@ -56,7 +56,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/HermanLD/
+$ git clone https://github.com/HermanLD/FM-stats-preview
 
 # Install dependencies
 $ npm install
