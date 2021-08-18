@@ -1,10 +1,8 @@
-# Frontend Mentor - Stats preview card component
-
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
+# Frontend Mentor
 
 <!-- Please update value in the {}  -->
 
-<h1 align="center">3-column preview card component</h1>
+<h1 align="center">Stats preview card component</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="https://www.frontendmentor.io" target="_blank">frontendmentor.io</a>.
@@ -32,22 +30,18 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Features](#features)
 - [How to use](#how-to-use)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](./images/desktop-preview.jpg)
+![Design preview for the Stats preview card component coding challenge](./images/desktop-preview.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Practiced using CSS custom properties
+- Mobile-first design
 
 ### Built With
 
@@ -55,16 +49,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [Frontend Mentor](https://www.frontendmentor.io/challenges) challenge. The [challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-) was to build an application to complete the given user stories.
-
-- See a list of jobs in a city by default
-- Search for jobs with a given keyword
-- Search for jobs with a city name, zip code, or other location
 
 ## How To Use
 
@@ -79,14 +63,11 @@ $ npm install
 
 ```
 
-## Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
+- [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/)
 - [A Complete Guide to Flexbox -by CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [What the Flexbox!? -Course by Wes Bos](https://flexbox.io/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
