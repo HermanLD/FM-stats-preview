@@ -10,15 +10,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://hermanld.github.io/FM-stats-preview/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/HermanLD/">
+    <a href="https://github.com/HermanLD/FM-stats-preview">
       Solution
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-">
+    <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62">
       Challenge
     </a>
   </h3>
